@@ -1,2 +1,23 @@
-# Summer2024_ElectronicsBootcamp
-My electronics and programming learning journey in summer 2024
+# Summer 2024 Electronics Bootcamp
+
+这是我高考后的暑假电子信息技术系统学习计划。
+
+## ✅ 我的目标
+- 学会电路设计与仿真
+- 掌握 C语言 + Python 编程
+- 能动手做 Arduino 项目
+- 打下未来大学阶段软硬件结合的地基
+
+## 🗓 学习时间表（简略版）
+| 周次 | 内容 |
+|------|------|
+| 第1周 | 电路基础学习 |
+| 第2周 | C语言基础 |
+| 第3周 | Arduino入门项目 |
+| 第4周 | Python编程 |
+| 第5周 | 通信与物联网 |
+| 第6周 | 综合硬件项目 |
+| 第7~8周 | 项目打包+展示能力提升 |
+
+📅 项目开始时间：2024年6月21日  
+🚀 更新中...
